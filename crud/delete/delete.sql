@@ -1,2 +1,2 @@
 DELETE FROM cats_app.cats
-    WHERE name = 'Egg';
+    WHERE name = "Egg";
