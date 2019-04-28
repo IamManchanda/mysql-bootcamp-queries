@@ -9,3 +9,4 @@
 1. Open [`book-insertions.sql`](./book-insertions.sql) as new SQL file and execute it.
 1. Create a new query `SELECT * FROM books_app.books;`
 1. Now you have the data to play with!
+1. These folders within this repo will help you get started with, as it contains all the most important queries that you will end up using as a MySQL (or, SQL in general) Developer.
