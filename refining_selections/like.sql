@@ -1,0 +1,9 @@
+/*
+ % means can have or not have, not mandatory 
+ _ means it's mandatory.
+ note: use `\` escape charachter if the content includes % or _
+*/
+
+SELECT * FROM books_app.books
+    WHERE author_fname 
+        LIKE "%da%"; /* or, "da%" or, "%da" */
