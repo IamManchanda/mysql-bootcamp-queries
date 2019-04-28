@@ -1,4 +1,8 @@
-# Usage Instructions
+# Basic MySQL Queries
+
+This repo contains Basic MySQL Queries, the ones which are most important and the ones that you will end up using as a MySQL (or, SQL in general) Developer. Please note that this repo only includes basic queries and doesn't include Advanced stuff like one to many and many to many data relationship with joins and stuff.
+
+## Usage Instructions
 
 1. [Download](https://dev.mysql.com/downloads/mysql/) MySQL 8 Software. I recommend you to select legacy when the download prompt ask you for connector as it will later allow you to use things like Node.js which as of today isn't supported with standard connector.
 1. [Download](https://dev.mysql.com/downloads/workbench/) MySQL 8 Workbench.
@@ -10,9 +14,7 @@
 1. Create a new query `SELECT * FROM books_app.books;`
 1. Now you have the data to play with!
 
-These folders within this repo will help you get started with, as it contains all the most important queries that you will end up using as a MySQL (or, SQL in general) Developer.
-
-You should start them by this order:
+These folders within this repo will help you get started with. You should start them by this order:
 
 - String Functions
 - Refining Selections
