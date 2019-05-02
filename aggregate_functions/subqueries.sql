@@ -1,6 +1,6 @@
-SELECT * FROM books_app.books
+SELECT * FROM books
     WHERE pages = (
         SELECT
             MIN(pages)
-        FROM books_app.books
+        FROM books
     );

@@ -1,2 +1,2 @@
-SELECT * FROM books_app.books
+SELECT * FROM books
     LIMIT 5;

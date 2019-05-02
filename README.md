@@ -10,8 +10,9 @@ This repo contains Basic MySQL Queries, the ones which are most important and th
 1. Create a new schema `books_app`.
 1. Create a new table `books`
 1. Describe these properties to the column for the `books` table as mentioned in this [image](./books-column-properties.png)
+1. Open [`use.sql`](./use.sql) as new SQL file and execute it. Now we are using `books_app` schema.
 1. Open [`book-insertions.sql`](./book-insertions.sql) as new SQL file and execute it.
-1. Create a new query `SELECT * FROM books_app.books;`
+1. Create a new query `SELECT * FROM books;`
 1. Now you have the data to play with!
 
 These folders within this repo will help you get started with. You should start them by this order:

@@ -7,4 +7,4 @@ SELECT
         WHEN stock_quantity BETWEEN 151 AND 200 THEN "****"
         ELSE "*****"
     END AS stock
-FROM books_app.books
+FROM books

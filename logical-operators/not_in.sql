@@ -1,3 +1,3 @@
-SELECT * FROM books_app.books
+SELECT * FROM books
     WHERE author_lname 
         NOT IN ('Carver', 'Lahiri', 'Smith');

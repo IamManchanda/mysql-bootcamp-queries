@@ -7,4 +7,4 @@ SELECT
     released_year,
     stock_quantity,
     pages
-FROM books_app.books;
+FROM books;

@@ -4,6 +4,6 @@
  note: use `\` escape charachter if the content includes % or _
 */
 
-SELECT * FROM books_app.books
+SELECT * FROM books
     WHERE author_fname 
         NOT LIKE "%da%"; /* or, "da%" or, "%da" */

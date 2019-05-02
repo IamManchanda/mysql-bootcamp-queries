@@ -1,4 +1,4 @@
-INSERT INTO books_app.books (title, author_fname, author_lname, released_year, stock_quantity, pages)
+INSERT INTO books (title, author_fname, author_lname, released_year, stock_quantity, pages)
     VALUES
             ("The Namesake", "Jhumpa", "Lahiri", 2003, 32, 291),
             ("Norse Mythology", "Neil", "Gaiman",2016, 43, 304),
